@@ -1,7 +1,7 @@
 # Graduate_Fall2023
 2023-2학기 영어음성학 01분반 강의
 
-#### 🐹🍦 **Python Language**
+# 🐹🍦 **Python Language**
 
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
