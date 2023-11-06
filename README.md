@@ -21,8 +21,8 @@
 
 ### **5. Class Materials**
 
-|#|Sessions|Keywords|
-|1|Markdown Language|[font size, hyperlink, bullet ponits]{https://github.com/Seongej78/Graduate_Fall2023/blob/main/0_MarkDown4README_md.ipynb}
+| # | Sessions | Keywords |
+| 1 |Markdown Language|[font size, hyperlink, bullet ponits]{https://github.com/Seongej78/Graduate_Fall2023/blob/main/0_MarkDown4README_md.ipynb}
 
 | # | Sessions | Keywords |
 |:--:|:--:|:--:|
