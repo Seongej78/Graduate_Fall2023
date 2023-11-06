@@ -3,7 +3,7 @@
 
 # 🐹🍦 **Python Language**
 
-[google homepage]
+[google homepage]{https://www.google.com/}
 
 ## **Learning Python** using **Colab** ([Visit Colab homepage](https://colab.research.google.com/?utm_source=scs-index)) and **Github** ([Visit Github homepage](https://github.com/))
 
